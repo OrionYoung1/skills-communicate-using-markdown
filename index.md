@@ -12,3 +12,6 @@ $ git init
 ```javascript
 var myVar = "Hello, world!";
 ```
+- [x] 学习 Github 使用
+- [x] 在 Github 中学习Markdown书写
+- [x] 加油！
